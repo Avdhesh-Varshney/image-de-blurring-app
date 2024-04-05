@@ -1,4 +1,4 @@
-# :zap: Face De-Blurring Application 
+# :zap: Image De-Blurring Application 
 
 Dataset is picked from Kaggle platform which contains several types of the images dataset with 2 sub-categories, like `blur` and `sharp` directories.
 
