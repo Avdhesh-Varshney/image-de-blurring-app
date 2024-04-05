@@ -1,4 +1,4 @@
-<h1 align='center'>💥 Face De-Blurring Application 💥</h1>
+<h1 align='center'>💥 Image De-Blurring Application 💥</h1>
 
 <div align='center'>
 
